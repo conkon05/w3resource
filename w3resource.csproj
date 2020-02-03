@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="exe1.cs" />
     <Compile Include="IExe.cs" />
+    <Compile Include="LINQ10exe.cs" />
+    <Compile Include="LINQ12exe.cs" />
     <Compile Include="LINQ1exe.cs" />
     <Compile Include="LINQ2exe.cs" />
     <Compile Include="LINQ3exe.cs" />
